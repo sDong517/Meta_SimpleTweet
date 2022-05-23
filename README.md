@@ -46,9 +46,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![TA3](https://user-images.githubusercontent.com/77254935/169846361-e72493f5-d8a1-464d-a691-8c3187eb9581.gif)
 
-GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
